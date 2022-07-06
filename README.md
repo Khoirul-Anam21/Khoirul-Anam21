@@ -4,10 +4,12 @@ Profile
 --
 - 👋 Hi, I’m Mohammad Khairul Anam or @Khoirul-Anam21
 - 👀 I’m interested mainly in Back-End Development using NodeJS and also have some knowledge in Mobile development using **Flutter**
+- 🌱 Skills: ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=plastic&logo=Sequelize&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) and basic in ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white)
 - 🌱 My skillset NodeJS + Epress, SQL with PostgreSQL, ORM, and Flutter(basic).
 - My [GitLab](https://gitlab.com/Khoirul-Anam).
 - My [LinkedIn](https://www.linkedin.com/in/mohammad-khoirul-anam21/).
 - My personal project: [CRUD database usergame](https://game-app-binar.herokuapp.com/).
+- Tools: ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white)
 
 Work/Organization
 --
