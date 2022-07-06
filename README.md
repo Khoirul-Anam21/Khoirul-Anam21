@@ -7,6 +7,7 @@ Profile
 - 🌱 My skillset NodeJS + Epress, SQL with PostgreSQL, ORM, and Flutter(basic).
 - My [GitLab](https://gitlab.com/Khoirul-Anam).
 - My [LinkedIn](https://www.linkedin.com/in/mohammad-khoirul-anam21/).
+- My personal project: [CRUD database usergame](https://game-app-binar.herokuapp.com/).
 
 Work/Organization
 --
