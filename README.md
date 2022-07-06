@@ -3,14 +3,16 @@ About Me
 Profile
 --
 - 👋 Hi, I’m Mohammad Khairul Anam or @Khoirul-Anam21
-- 👀 I’m interested in **Flutter**
-- 🌱 I’m currently learning Flutter, Git, Dart and have knowledge about SQL
+- 👀 I’m interested mainly in Back-End Development using NodeJS and also have some knowledge in Mobile development using **Flutter**
+- 🌱 My skillset NodeJS + Epress, SQL with PostgreSQL, ORM, and Flutter(basic).
+- My [GitLab](https://gitlab.com/Khoirul-Anam).
+- My [LinkedIn](https://www.linkedin.com/in/mohammad-khoirul-anam21/).
 
 Work/Organization
 --
 - I'm currently studying at Merdeka Malang University
 - Majoring Information System and English(double degree)
-- Now I'm in 5th Semester
+- Now I'm in 6th Semester
 
 Certification Profiles
 -- 
