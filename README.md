@@ -3,7 +3,7 @@ About Me
 Profile
 --
 - 👋 Hi, I’m Mohammad Khairul Anam or @Khoirul-Anam21
-- 👀 I’m a web developer, digitalization, and data analyst.
+- 👀 I’m a web developer, digitalization, and data analyst | Visit my website → [itsanam.my.id](https://itsanam.my.id)
 - 🌱 Skills: ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=plastic&logo=Sequelize&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white)
 - My [GitLab](https://gitlab.com/Khoirul-Anam).
 - My [LinkedIn](https://www.linkedin.com/in/mohammad-khoirul-anam21/).
@@ -13,8 +13,8 @@ Profile
 Work/Organization
 --
 - I'm currently working at PT Rukun Mitra Sejati
-- Graduated from Information System and English(double degree)
 - 2 (almost) y of experience
+- Graduated from Information System and English with double degree
 
 Certification Profiles
 -- 
