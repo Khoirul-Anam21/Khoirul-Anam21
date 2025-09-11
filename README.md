@@ -13,7 +13,7 @@ Profile
 Work/Organization
 --
 - I'm currently working at PT Rukun Mitra Sejati
-- 2 (almost) y of experience
+- 2 y of experience
 - Graduated from Information System and English with double degree
 
 Certification Profiles
